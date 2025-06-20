@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Sinat, a Cambodian Cyber Security and Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.sinasinat.me)<br>👨🏼‍🎓 studying media based computer science at Institute of Technology of Cambodia<br>👨🏼‍💻 studying as a computer science since 2022 <br>🎬 <i>sinasinat</i>
+🛜 currently working on my own [webpage](https://sinasinat.vercel.app)<br>👨🏼‍🎓 studying media based computer science at Institute of Technology of Cambodia<br>👨🏼‍💻 studying as a computer science since 2022 <br>🎬 <i>sinasinat</i>
 
 
 # 💻 Tech Stack:
