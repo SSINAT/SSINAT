@@ -11,7 +11,7 @@
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SSINAT/SSINAT/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SSINAT/SSINAT/output/github-snake.svg" />
-  <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+<!--   <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" /> -->
 </picture>
 
 
